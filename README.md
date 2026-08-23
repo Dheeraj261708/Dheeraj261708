@@ -79,12 +79,12 @@
 </td>
 <td width="50%" valign="top">
 
-#### 🤖 [Attendence-System](https://github.com/Dheeraj261708/Attendence-System)
+#### 🤖 [ai-attendance-system](https://github.com/Dheeraj261708/ai-attendance-system)
 > AI-powered attendance management system with face recognition, geolocation tracking, and real-time dashboard.
 
 `Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
 
-<a href="https://github.com/Dheeraj261708/Attendence-System">
+<a href="https://github.com/Dheeraj261708/ai-attendance-system">
   <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/Poster_image.png" width="100%" alt="Attendance System Preview" />
 </a>
 
@@ -94,7 +94,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### 🧩 [DSA](https://github.com/Dheeraj261708/DSA)
+#### 🧩 [dsa](https://github.com/Dheeraj261708/dsa)
 > Data Structures and Algorithms practice questions and comprehensive solutions in C++.
 
 `C++` `Algorithms` `Data Structures`
@@ -115,7 +115,7 @@ vector<int> twoSum(vector<int>& nums, int target) {
 </td>
 <td width="50%" valign="top">
 
-#### 🎯 [Leetcode-75-Study-Plan-Solution](https://github.com/Dheeraj261708/Leetcode-75-Study-Plan-Solution)
+#### 🎯 [leetcode-75-solutions](https://github.com/Dheeraj261708/leetcode-75-solutions)
 > Solutions to LeetCode 75 study plan problems with clean and optimized code.
 
 `C++` `LeetCode` `DSA` `Study Plan`
