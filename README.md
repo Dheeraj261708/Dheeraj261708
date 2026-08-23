@@ -1,13 +1,21 @@
-# Hi 👋, I'm Dheeraj Singh
+<div align="center">
 
-Passionate about building practical, scalable and real-world solutions. Currently pursuing MCA and continuously learning new technologies.
+# 👨‍💻 Hi 👋, I'm Dheeraj Singh
 
-[![MCA Student](https://img.shields.io/badge/MCA-Student-blue?style=for-the-badge)](https://github.com/Dheeraj261708)
+### **Aspiring Software Engineer** | **MCA Student** | **Full-Stack & AI/ML Developer**
+
+📍 **Kanpur, India** • 📧 [dheerajsingh2230975@gmail.com](mailto:dheerajsingh2230975@gmail.com) • 💼 [LinkedIn Profile](https://linkedin.com/in/dheeraj-singh-2230975d)
+
+---
+
+[![MCA Student](https://img.shields.io/badge/MCA-Student-blue?style=for-the-badge&logo=education)](https://github.com/Dheeraj261708)
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge)](https://github.com/Dheeraj261708)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Dheeraj261708)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Dheeraj261708)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Dheeraj261708)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/Dheeraj261708)
+
+</div>
 
 ---
 
@@ -18,7 +26,7 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 ### 🚀 About Me
 
 - 🎓 **Education:** Currently pursuing MCA
-- 🏗️ **Focus:** Building full-stack applications and AI-powered solutions
+- 🏗️ **Focus:** Building full-stack applications & AI-powered solutions
 - 🧩 **Practice:** Working on improving DSA and System Design
 - 📚 **Learning:** Node.js, Express.js, SQL, AI/ML, DevOps
 - ⚡ **Fun fact:** I love turning ideas into real applications
@@ -43,9 +51,13 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 
 ### 📫 Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-singh-2230975d)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dheeraj261708)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dheerajsingh2230975@gmail.com)
+
+</div>
 
 ---
 
