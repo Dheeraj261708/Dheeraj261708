@@ -1,7 +1,6 @@
 # Hi 👋, I'm Dheeraj Singh
 
-Passionate about building practical, scalable and real-world solutions.  
-Currently pursuing MCA and continuously learning new technologies.
+Passionate about building practical, scalable and real-world solutions. Currently pursuing MCA and continuously learning new technologies.
 
 [![MCA Student](https://img.shields.io/badge/MCA-Student-1f6feb?style=flat-square)](https://github.com/Dheeraj261708)
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-238636?style=flat-square)](https://github.com/Dheeraj261708)
@@ -47,3 +46,91 @@ Currently pursuing MCA and continuously learning new technologies.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dheeraj-singh-2230975d)
 [![Portfolio](https://img.shields.io/badge/Portfolio-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Dheeraj261708)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dheerajsingh2230975@gmail.com)
+
+---
+
+### 📌 Pinned Repositories
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [ai-attendance-system](https://github.com/Dheeraj261708/ai-attendance-system)
+> AI-powered attendance system with face recognition, geolocation tracking, secure login and real-time dashboard.
+
+`Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
+
+<a href="https://github.com/Dheeraj261708/ai-attendance-system">
+  <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/Poster_image.png" width="100%" alt="ai-attendance-system preview" />
+</a>
+
+⭐ 42 &nbsp; 🍴 12
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎙️ [speech-to-text-system](https://github.com/Dheeraj261708/speech-to-text-system)
+> Speech-to-text web application that converts spoken words into accurate text in real-time with multi-language support.
+
+`JavaScript` `HTML` `CSS` `Web Speech API`
+
+<a href="https://github.com/Dheeraj261708/speech-to-text-system">
+  <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/live_transcription.png" width="100%" alt="speech-to-text-system preview" />
+</a>
+
+⭐ 28 &nbsp; 🍴 7
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 [dsa](https://github.com/Dheeraj261708/dsa)
+> Data Structures and Algorithms practice questions and solutions in C++.
+
+`C++`
+
+```cpp
+// Example: Two Sum Solution
+vector<int> twoSum(vector<int>& nums, int target) {
+    unordered_map<int, int> mp;
+    for(int i = 0; i < nums.size(); i++) {
+        int rem = target - nums[i];
+        if(mp.count(rem)) return {mp[rem], i};
+        mp[nums[i]] = i;
+    }
+    return {};
+}
+```
+
+⭐ 110 &nbsp; 🍴 25
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎯 [leetcode-75-solutions](https://github.com/Dheeraj261708/leetcode-75-solutions)
+> Solutions to LeetCode 75 study plan problems with clean and optimized code.
+
+`C++`
+
+| # | Title | Difficulty | Topic |
+|---|-------|------------|-------|
+| 1 | Two Sum | Easy | Array, Hash Table |
+| 2 | Add Two Numbers | Medium | Linked List |
+| 3 | Longest Substring | Medium | String, Sliding Window |
+
+⭐ 67 &nbsp; 🍴 11
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats & Languages
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dheeraj261708&show_icons=true&theme=dark&rank_icon=github&border_radius=8" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dheeraj261708&layout=compact&theme=dark&border_radius=8" width="48%" alt="Top Languages" />
+</p>
