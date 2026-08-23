@@ -60,9 +60,13 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj261708&show_icons=true&theme=dark&rank_icon=github&border_radius=8" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj261708&layout=compact&theme=dark&border_radius=8" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Dheeraj261708&show_icons=true&theme=dark&rank_icon=github&border_radius=8" width="48%" alt="Dheeraj's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Dheeraj261708&layout=compact&theme=dark&border_radius=8" width="48%" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj261708&theme=2077" width="97%" alt="GitHub Activity & Commit Summary" />
 </p>
