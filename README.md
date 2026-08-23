@@ -60,10 +60,6 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 
 `Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
 
-<a href="https://github.com/Dheeraj261708/ai-attendance-system">
-  <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/Poster_image.png" width="100%" alt="ai-attendance-system preview" />
-</a>
-
 ⭐ 42 &nbsp; 🍴 12
 
 </td>
