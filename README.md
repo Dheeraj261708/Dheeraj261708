@@ -68,5 +68,5 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj261708&theme=2077" width="97%" alt="GitHub Activity & Commit Summary" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dheeraj261708&theme=react-dark" width="97%" alt="Contribution Graph" />
 </p>
