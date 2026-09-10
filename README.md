@@ -61,7 +61,7 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 `Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
 
 <a href="https://github.com/Dheeraj261708/AttendAI">
-  <img src="https://raw.githubusercontent.com/Dheeraj261708/AttendAI/main/assets/AttendAI_Banner.png" width="100%" alt="AttendAI Smart Attendance System Preview" />
+  <img src="https://raw.githubusercontent.com/Dheeraj261708/AttendAI/main/assets/AttendAI_Card_Preview.png" width="100%" height="220" style="object-fit: cover; border-radius: 6px;" alt="AttendAI Preview" />
 </a>
 
 ⭐ 42 &nbsp; 🍴 12
@@ -75,7 +75,7 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 `JavaScript` `HTML` `CSS` `Web Speech API`
 
 <a href="https://github.com/Dheeraj261708/speech-to-text-system">
-  <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/live_transcription.png" width="100%" alt="speech-to-text-system preview" />
+  <img src="https://raw.githubusercontent.com/Dheeraj261708/speech-to-text-system/main/assets/screenshots/live_transcription.png" width="100%" height="220" style="object-fit: cover; border-radius: 6px;" alt="speech-to-text-system preview" />
 </a>
 
 ⭐ 28 &nbsp; 🍴 7
