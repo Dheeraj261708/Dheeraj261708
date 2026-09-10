@@ -3,7 +3,7 @@
 Passionate about building practical, scalable and real-world solutions. Currently pursuing MCA and continuously learning new technologies.
 
 [![MCA Student](https://img.shields.io/badge/MCA-Student-1f6feb?style=flat-square)](https://github.com/Dheeraj261708)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-238636?style=flat-square)](https://github.com/Dheeraj261708)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=flat-square)](https://github.com/Dheeraj261708)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Dheeraj261708)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)](https://github.com/Dheeraj261708)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Dheeraj261708)
@@ -59,6 +59,10 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 > AI-powered Attendance Management System with face recognition, geolocation tracking, secure login, and real-time dashboard.
 
 `Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
+
+<a href="https://github.com/Dheeraj261708/AttendAI">
+  <img src="https://raw.githubusercontent.com/Dheeraj261708/AttendAI/main/assets/AttendAI_Banner.png" width="100%" alt="AttendAI Smart Attendance System Preview" />
+</a>
 
 ⭐ 42 &nbsp; 🍴 12
 
