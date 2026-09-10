@@ -53,7 +53,7 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" colspan="2" valign="top">
 
 #### 🎙️ [speech-to-text-system](https://github.com/Dheeraj261708/speech-to-text-system)
 > Web application that converts spoken words into accurate text in real-time with multi-language support.
@@ -65,16 +65,6 @@ Passionate about building practical, scalable and real-world solutions. Currentl
 </a>
 
 ⭐ 28 &nbsp; 🍴 7
-
-</td>
-<td width="50%" valign="top">
-
-#### 🤖 [ai-attendance-system](https://github.com/Dheeraj261708/ai-attendance-system)
-> AI-powered attendance system with face recognition, geolocation tracking, secure login and real-time dashboard.
-
-`Node.js` `Express.js` `JavaScript` `HTML` `CSS` `SQLite`
-
-⭐ 42 &nbsp; 🍴 12
 
 </td>
 </tr>
